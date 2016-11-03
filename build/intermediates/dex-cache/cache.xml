@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nrtdemo-NB\AndroidStudioProjects\PDFRenderer\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\Nrtdemo-NB\AndroidStudioProjects\PDFRenderer\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_8c8b2aa1845d237ffc803f39004fb9757a8863cd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nrtdemo-NB\AndroidStudioProjects\PDFRenderer\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\Nrtdemo-NB\AndroidStudioProjects\PDFRenderer\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_b031274f454f8e2dbf75c18cbc41c87fd77f462a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nrtdemo-NB\AndroidStudioProjects\PDFRenderer\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\Nrtdemo-NB\AndroidStudioProjects\PDFRenderer\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_05d5716ab3d287151085d84fd760573fcb4ce1a2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nrtdemo-NB\AndroidStudioProjects\PDFRenderer\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="ae4e0922a356649ac0335c82a24adf08b902441e">
+        <dex dex="C:\Users\Nrtdemo-NB\AndroidStudioProjects\PDFRenderer\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_ab01006bf00c7de3db2a4a63455e712745ae7cdd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nrtdemo-NB\AndroidStudioProjects\PDFRenderer\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\Nrtdemo-NB\AndroidStudioProjects\PDFRenderer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_37feafd92a1f6c6b7a728ef7658cea05bffc975b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nrtdemo-NB\AndroidStudioProjects\PDFRenderer\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Nrtdemo-NB\AndroidStudioProjects\PDFRenderer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_0164e47c5b3008ddd2d570c3408161ecd6aa8054\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nrtdemo-NB\AndroidStudioProjects\PDFRenderer\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\Nrtdemo-NB\AndroidStudioProjects\PDFRenderer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_e872c363b482c86908807a2260590f22fd679402\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nrtdemo-NB\AndroidStudioProjects\PDFRenderer\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\Nrtdemo-NB\AndroidStudioProjects\PDFRenderer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.1_abfbb8e2ea3fada92552cb687f0828b4af8fff2a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nrtdemo-NB\AndroidStudioProjects\PDFRenderer\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\Nrtdemo-NB\AndroidStudioProjects\PDFRenderer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_7b727788ef83a9e8e3e3e50749662b3d29b69e68\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nrtdemo-NB\AndroidStudioProjects\PDFRenderer\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\Nrtdemo-NB\AndroidStudioProjects\PDFRenderer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_fe28d52c52d97d8e0db167244a3aa7af0795ef72\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nrtdemo-NB\AndroidStudioProjects\PDFRenderer\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\Nrtdemo-NB\AndroidStudioProjects\PDFRenderer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_c85cb42c489d277a20ed7df52adca52ea568fd82\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nrtdemo-NB\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Users\Nrtdemo-NB\AndroidStudioProjects\PDFRenderer\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_3bea87dd75c2eedb79636a2a4b479c57f8d085e2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nrtdemo-NB\AndroidStudioProjects\PDFRenderer\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\Nrtdemo-NB\AndroidStudioProjects\PDFRenderer\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_1cba40644616b2cfcea4297852bc00bc057d2e00\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nrtdemo-NB\AndroidStudioProjects\PDFRenderer\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\Nrtdemo-NB\AndroidStudioProjects\PDFRenderer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_91cb49f7d1bf06b01a3ad74572f9510497cacec2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nrtdemo-NB\AndroidStudioProjects\PDFRenderer\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="94ff1afb661236ed57f26ccdbf5ac5955eb97eeb">
+        <dex dex="C:\Users\Nrtdemo-NB\AndroidStudioProjects\PDFRenderer\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_8c84914ba8397829bf2fd15645a331c9fefded13\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nrtdemo-NB\AndroidStudioProjects\PDFRenderer\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\Nrtdemo-NB\AndroidStudioProjects\PDFRenderer\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_03ea23b4226154eeb4a68875d85364b9d9e90880\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nrtdemo-NB\AndroidStudioProjects\PDFRenderer\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\Nrtdemo-NB\AndroidStudioProjects\PDFRenderer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_5c4d20772b4b5cd24e9d8c432cf88231c616b52d\classes.dex" />
+    </item>
+
+</items>
